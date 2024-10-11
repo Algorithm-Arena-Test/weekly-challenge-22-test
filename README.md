@@ -1,5 +1,4 @@
-# weekly-challenge-22-test
-# Weekly Challenge #36 - Challenge Running
+# Weekly Challenge #22 - Test
 
 **For this challenge, you need to implement a program that helps me publish results for a challenge.** I feel so bad because I haven't judged the past 3 weeks challenges, but the manual pain of doing all the steps made me lose motivation. For this week challenge you need to help automate all this.
 

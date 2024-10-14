@@ -14,6 +14,24 @@ If you feel like going above an beyond, automating the creating flow would be aw
 
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/1509e9b6-a006-4737-b860-fa80e67a4bf7">
 
+
+### Winners:
+
+* The winner for $250 is @free_one_! with second issue. boom https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/3
+
+
+* In second place for ### Prizes:25 is @free_one_! with second. interesting stuff https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/4
+
+
+* In third place for $50 is @free_one_! with Vjudge.  https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/1
+https://www.youtube.com/watch?v=Q8Tiz6INF7I
+https://github.com/user-attachments/assets/a406aaa1-1b9f-477e-8078-1f833b499882
+https://github.com/user-attachments/assets/15e61479-ebc0-4b6a-9582-1dd9075292df
+https://codepen.io/learosema/pen/JjgEYBe
+
+* Honorable mention: honor by @free_one_. just cuz https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/2
+
+
 ### Prizes:
 * Winner: $250
 * 2nd: $125

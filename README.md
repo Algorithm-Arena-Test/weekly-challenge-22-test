@@ -14,6 +14,22 @@ If you feel like going above an beyond, automating the creating flow would be aw
 
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/1509e9b6-a006-4737-b860-fa80e67a4bf7">
 
+
+### Winners:
+
+* The winner for $350 is michael-azogu! with "second issue.". eufwkefwk https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/3
+https://github.com/user-attachments/assets/5b7ae00d-14a0-4276-aee5-94518d6110a8
+
+* In second place for $175 is michael-azogu! with "Vj". sdks https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/1
+https://www.youtube.com/watch?v=Q8Tiz6INF7I
+https://github.com/user-attachments/assets/a406aaa1-1b9f-477e-8078-1f833b499882
+https://codepen.io/learosema/pen/JjgEYBe
+
+* In third place for $60 is michael-azogu! with "honorable". kkks https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/4
+
+
+* Honorable mention goes to "error" by michael-azogu.  https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/2
+
 ### Prizes:
 * Winner: $350
 * 2nd: $175

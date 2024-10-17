@@ -14,20 +14,6 @@ If you feel like going above an beyond, automating the creating flow would be aw
 
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/1509e9b6-a006-4737-b860-fa80e67a4bf7">
 
-
-### Winners:
-
-* The winner for $350 is michael-azogu! with second issue..  https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/3
-
-
-* In second place for $175 is michael-azogu! with honorable. this is for first https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/4
-
-
-* In third place for $60 is michael-azogu! with Vj.  https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/1
-https://github.com/user-attachments/assets/15e61479-ebc0-4b6a-9582-1dd9075292df
-
-* Honorable mention: error by michael-azogu. tried https://github.com/Algorithm-Arena-Test/weekly-challenge-22-test/issues/2
-
 ### Prizes:
 * Winner: $350
 * 2nd: $175
